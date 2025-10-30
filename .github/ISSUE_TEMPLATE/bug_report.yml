@@ -19,6 +19,7 @@ body:
         - Generation Engine
         - Microservice
         - Infrastructure
+        - Repository
         - Database
         - Authentication
     validations:

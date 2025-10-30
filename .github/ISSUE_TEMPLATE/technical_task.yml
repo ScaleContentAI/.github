@@ -24,10 +24,12 @@ body:
       options:
         - Backend
         - Frontend
+        - Generation Engine
         - Microservice
         - Infrastructure
+        - Repository
         - Database
-        - Other
+        - Authentication
     validations:
       required: true
 
