@@ -1,1 +1,0 @@
-/home/atompowered/python_projects/.agent/AGENTS.md
