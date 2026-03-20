@@ -1,0 +1,1 @@
+/home/atompowered/python_projects/aicgs/AGENTS.md
